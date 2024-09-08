@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center> <img src="giphy-ezgif.com-added-text.webp"></center> <br><br>
+
